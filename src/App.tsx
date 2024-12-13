@@ -23,7 +23,7 @@ function App() {
         </li>
       </ul>
       <h3>
-        Nice to meet you!!
+        Nice to meet you!
       </h3>
     </div>
   );
