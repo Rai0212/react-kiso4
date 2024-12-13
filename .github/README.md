@@ -1,4 +1,7 @@
-超参考にした：https://qiita.com/tsuyuni/items/d2edef23c169bd79de93
+超参考にした：
+https://qiita.com/tsuyuni/items/d2edef23c169bd79de93
+https://qiita.com/kntr0116/items/17042c792de76104f5c0
+https://qiita.com/mogamoga1337/items/1752ec783d0fdc866a6a
 
 # Getting Started with Create React App
 
