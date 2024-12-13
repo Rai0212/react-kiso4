@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-kiso4/static/css/main.f855e6bc.css",
-    "main.js": "/react-kiso4/static/js/main.28627bff.js",
+    "main.css": "/react-kiso4/static/css/main.1f2afd3c.css",
+    "main.js": "/react-kiso4/static/js/main.594a97cd.js",
     "static/js/156.7d1633b0.chunk.js": "/react-kiso4/static/js/156.7d1633b0.chunk.js",
     "index.html": "/react-kiso4/index.html",
-    "main.f855e6bc.css.map": "/react-kiso4/static/css/main.f855e6bc.css.map",
-    "main.28627bff.js.map": "/react-kiso4/static/js/main.28627bff.js.map",
+    "main.1f2afd3c.css.map": "/react-kiso4/static/css/main.1f2afd3c.css.map",
+    "main.594a97cd.js.map": "/react-kiso4/static/js/main.594a97cd.js.map",
     "156.7d1633b0.chunk.js.map": "/react-kiso4/static/js/156.7d1633b0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.28627bff.js"
+    "static/css/main.1f2afd3c.css",
+    "static/js/main.594a97cd.js"
   ]
 }
