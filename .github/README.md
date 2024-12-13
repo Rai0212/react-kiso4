@@ -9,4 +9,6 @@
 # github pages を開くと，READ.me ファイルが表示されしまうことへの対処法
 .github ディレクトリの作成 → README.md を.github に移動．
 
+必ず，npm run deployをしてから，githubにpushするように！！
+github pagesはすぐに更新されないから，yarn start で，3000ポートで確認しながらやるのが良い！！
 
