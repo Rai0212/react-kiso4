@@ -6,7 +6,9 @@
     "cra-template-typescript": "1.2.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "react-scripts": "5.0.1"
+    "react-scripts": "5.0.1", 
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -33,6 +35,8 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^6.2.0",
     "typescript": "^5.7.2"
-  }
+  },
+  "homepage": "https://rai0212.github.io/react-kiso4/"
 }
