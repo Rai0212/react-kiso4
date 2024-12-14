@@ -11,7 +11,7 @@ function App() {
         My name is Tsukui Rai.
       </p>
       <p>
-        I'm UoA students. 
+        I'm a UoA students. 
       </p>
       <h2>
         About me:
