@@ -3,7 +3,7 @@ const app = express();
 const PORT = 9000;
 
 // ルートにアクセスした際のレスポンス
-app.get('/', (req, res) => {
+app.get('/', (res) => {
   res.send('Hello world');
 });
 
