@@ -9,6 +9,8 @@ function App() {
       </h1>
       <p>
         My name is Tsukui Rai.
+      </p>
+      <p>
         I'm UoA students. 
       </p>
       <h2>
