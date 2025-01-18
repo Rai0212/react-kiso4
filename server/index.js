@@ -1,13 +1,15 @@
+// 参考: https://zenn.dev/b1essk/articles/ssr-with-react-express
+
 const express = require('express');
 const app = express();
 const PORT = 9000;
 
-// ルートにアクセスした際のレスポンス
 app.get('/', (res) => {
   res.send('Hello world');
 });
 
-// サーバを起動
+// app.use(express.static("./build"));
+
 app.listen(PORT, () => {
-  console.log(`Server is running on http://localhost:${PORT}`);
+  console.log(`Server is listening on port ${PORT}`);
 });
