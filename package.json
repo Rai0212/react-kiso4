@@ -17,8 +17,9 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "build-server": "webpack --mode production",
-    "start1-server": "node server/index.js", 
-    "start2-server": "webpack-dev-server --mode development"
+    "start1-server": "node server/index.js",
+    "start2-server": "webpack-dev-server --mode development",
+    "start3-server": "node build/server.js"
   },
   "eslintConfig": {
     "extends": [
@@ -39,13 +40,20 @@
     ]
   },
   "devDependencies": {
-    "@babel/core": "^7.26.0",
-    "@babel/preset-env": "^7.26.0",
+    "@babel/core": "^7.26.9",
+    "@babel/preset-env": "^7.26.9",
     "@babel/preset-react": "^7.26.3",
+    "@types/node": "^22.13.4",
+    "@types/react": "^19.0.8",
+    "babel-loader": "^9.2.1",
+    "css-loader": "^7.1.2",
     "eslint-plugin-jest": "^28.11.0",
     "eslint-scope": "^8.2.0",
     "gh-pages": "^6.2.0",
-    "typescript": "^5.7.2",
+    "node-fetch": "^3.3.2",
+    "style-loader": "^4.0.0",
+    "ts-loader": "^9.5.2",
+    "typescript": "^5.7.3",
     "webpack": "^5.97.1",
     "webpack-cli": "^6.0.1",
     "webpack-dev-server": "^5.2.0",
