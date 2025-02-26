@@ -1,7 +1,7 @@
 // 参考: https://zenn.dev/b1essk/articles/ssr-with-react-express
 
 // Train3.
-/*
+ /*
 const express = require('express');
 const app = express();
 const PORT = 9000;
@@ -16,7 +16,7 @@ app.listen(PORT, () => {
   console.log(`Server is running on http://localhost:${PORT}`);
 });
 // Train3 ここまで.
-*/
+// */
 
 
 
